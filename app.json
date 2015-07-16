@@ -2,6 +2,6 @@
   "name": "Node.js Getting Started",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/VeronikaSavanchuk/phonecat",
-  "logo": "http://phonecat.herokuapp.com/node.svg",
+  "logo": "http://phonecat.herokuapp.com/",
   "keywords": ["node", "express", "static"]
 }
