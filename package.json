@@ -1,16 +1,26 @@
 {
-  "name": "phonecat",
-  "version": "0.12.7",
-  "private": true,
+  "name": "node-js-getting-started",
+  "version": "0.1.4",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node index.js"
   },
   "dependencies": {
-    "express": "3.0.x",
-    "jade": "*"
+    "ejs": "^2.3.1",
+    "express": "~4.9.x"
   },
   "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
-  }
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VeronikaSavanchuk/phonecat"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
